@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget
+	xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id = "mg.ok.phonegaptest"
+	versionCode = "10" 
+	version = "0.1.0"
+>
+
+	<name>PhoneGap Test</name>
+	
+	<description>
+		PhoneGap Test
+	</description>
+	
+	<author href="http://example.com" email="info@example.com">
+		Michael Geary
+	</author>
+	
+	<preference name="permissions" value="network" />
+	<feature name="http://api.phonegap.com/1.0/network" />
+
+</widget>
